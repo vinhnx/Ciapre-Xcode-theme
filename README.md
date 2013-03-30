@@ -25,7 +25,7 @@ Inspired by [Andro](https://github.com/cyrilmengin/andro) color scheme for ST bu
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d.png)
 
 ##### :star: Blue
-![Ciapre][https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-b.png)
+![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-b.png)
 
 ### *Font used* ###
 `Inconsolata` font
