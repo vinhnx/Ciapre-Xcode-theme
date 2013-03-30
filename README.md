@@ -4,7 +4,7 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/). 
 
-Inspired by [Andro](https://github.com/cyrilmengin/andro) color scheme for ST but with more syntax highlighting sweetness.
+Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
 
 ### Installation ###
 
