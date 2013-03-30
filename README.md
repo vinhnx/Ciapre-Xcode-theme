@@ -1,4 +1,4 @@
-[Ciapre Xcode](http://github.com/vinhnx/Ciapre-Xcode-theme/)
+*[Ciapre Xcode](http://github.com/vinhnx/Ciapre-Xcode-theme/)*
 
 ***
 
@@ -20,10 +20,10 @@ Inspired by [Andro](https://github.com/cyrilmengin/andro) color scheme but with 
 
 ## Comes with two different colors  ##
 ##### :star: Dark
-![Ciapre Black](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapredark.png)
+![Ciapre Black]https://github.com/vinhnx/Ciapre-Xcode-theme/blob/master/screenshot/ciapre-xcode-1.png?raw=true)
 
 ##### :star: Blue
-![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
+![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapredark.pns://github.com/vinhnx/Ciapre-Xcode-theme/blob/master/screenshot/ciapre-xcode.png?raw=true)
 
 ### *Font used* ###
 `Incosolata` font
