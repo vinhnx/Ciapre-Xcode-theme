@@ -2,7 +2,7 @@
 
 ***
 
-An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/). 
+An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
 Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
 
@@ -10,7 +10,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 1. `git clone https://github.com/vinhnx/Ciapre-Xcode-theme.git`
 
-2. `cd Ciapre-Xcode-theme` 
+2. `cd Ciapre-Xcode-theme`
 
 3. `cp Ciapre.dvtcolo rtheme Ciapre\ Blue.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
@@ -23,6 +23,9 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 ## *Comes with two different colors*  ##
 
 ##### :star: Dark
+
+![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d2.png)
+
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d.png)
 
 ##### :star: Blue
