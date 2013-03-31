@@ -12,7 +12,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 2. `cd Ciapre-Xcode-theme`
 
-3. `cp Ciapre.dvtcolo rtheme Ciapre\ Blue.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+3. `cp Ciapre.dvtcolortheme Ciapre \2.dvtcolortheme Ciapre\ Blue.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
     *Note*: you may have to make `FontAndColorThemes` folder in `~/Library/Developer/Xcode/UserData/` if you haven't changed your color themes, by `mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
 
@@ -24,11 +24,15 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 ##### :star: Dark
 
+Ciapre 2.dvtcolortheme
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d2.png)
 
+Ciapre.dvtcolortheme
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d.png)
 
 ##### :star: Blue
+
+Ciapre Blue.dvtcolortheme
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-b.png)
 
 ## *Credit* ##
