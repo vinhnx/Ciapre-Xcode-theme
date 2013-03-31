@@ -6,7 +6,7 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
 
-### Installation ###
+### *Installation* ###
 
 1. `git clone https://github.com/vinhnx/Ciapre-Xcode-theme.git`
 
@@ -20,16 +20,24 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 6. Profit! :octocat::shipit:.
 
-## Comes with two different colors  ##
+## *Comes with two different colors*  ##
+
 ##### :star: Dark
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d.png)
 
 ##### :star: Blue
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-b.png)
 
+## *Credit* ##
+
++ [Andro](https://github.com/cyrilmengin/andro) - by Cyril Mengin.
++ [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
+
 ### *Font used* ###
+
 `Inconsolata` font
 
 ***
+
 ~ Happy coding! ♥
 
