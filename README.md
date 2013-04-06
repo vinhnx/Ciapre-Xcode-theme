@@ -45,7 +45,11 @@ Ciapre Blue.dvtcolortheme
 
 ### *Font used* ###
 
-`Inconsolata` font
+`Inconsolata`
+
+## License ##
+
+Do whatever you want. This is not big deal.
 
 ***
 
