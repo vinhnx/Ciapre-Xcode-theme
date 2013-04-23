@@ -53,5 +53,5 @@ Well, you can do whatever you want with it. This is not big deal.
 
 ***
 
-~ Happy coding & hope you like it! :)
+~ Happy coding & I hope you like it! :)
 
