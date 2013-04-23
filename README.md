@@ -45,11 +45,11 @@ Ciapre Blue.dvtcolortheme
 
 ### *Font used* ###
 
-`Inconsolata`
+`[Inconsolata](www.levien.com/type/myfonts/inconsolata.html)`
 
 ## License ##
 
-Do whatever you want. This is not big deal.
+Well, you can do whatever you want with it. This is not big deal. :P
 
 ***
 
