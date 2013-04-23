@@ -45,7 +45,7 @@ Ciapre Blue.dvtcolortheme
 
 ### *Font used* ###
 
-`[Inconsolata](www.levien.com/type/myfonts/inconsolata.html)`
+[Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
 
 ## License ##
 
