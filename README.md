@@ -28,10 +28,10 @@ cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/L
 ##### :star: Dark
 
 Ciapre 2.dvtcolortheme
-![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d2.png)
+![Ciapre Black Neue](https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png)
 
 Ciapre.dvtcolortheme
-![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-d.png)
+![Ciapre Black](https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png)
 
 ##### :star: Blue
 
