@@ -36,7 +36,7 @@ Ciapre.dvtcolortheme
 ##### :star: Blue
 
 Ciapre Blue.dvtcolortheme
-![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode-b.png)
+![Ciapre](https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png)
 
 ## *Credit* ##
 
