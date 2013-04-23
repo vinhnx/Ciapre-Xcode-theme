@@ -49,9 +49,9 @@ Ciapre Blue.dvtcolortheme
 
 ## License ##
 
-Well, you can do whatever you want with it. This is not big deal. :P
+Well, you can do whatever you want with it. This is not big deal.
 
 ***
 
-~ Happy coding! ♥
+~ Happy coding & hope you like it! :)
 
