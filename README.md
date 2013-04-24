@@ -1,12 +1,17 @@
-# [Ciapre Xcode](http://vinhnx.github.com/Ciapre-Xcode-theme)
-
-***
+# [Ciapre Xcode](http://vinhnx.github.com/Ciapre-Xcode-theme) #
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
 Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
 
-### *Installation* ###
+## Installation ##
+
+**[NEW!]** **Automatically**
+
+> Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz).
+   After having successfully installed Alcatraz, just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
+
+**Manually**
 
 1. `git clone https://github.com/vinhnx/Ciapre-Xcode-theme.git`
 
@@ -23,27 +28,24 @@ cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/L
 
 6. Profit! :octocat::shipit:.
 
-## *Comes with two different colors*  ##
+## Comes with two different colors ##
 
-##### :star: Dark
+Version 1 (Blue + Dark)
 
-Ciapre 2.dvtcolortheme
-![Ciapre Black Neue](https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png)
+![Ciapre Black](https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png "Ciapre.dvtcolortheme")
 
-Ciapre.dvtcolortheme
-![Ciapre Black](https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png)
+![Ciapre](https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png "Ciapre Blue.dvtcolortheme")
 
-##### :star: Blue
+Version 2 (Dark)
 
-Ciapre Blue.dvtcolortheme
-![Ciapre](https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png)
+![Ciapre Black Neue](https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png "Ciapre 2.dvtcolortheme")
 
-## *Credit* ##
+## Credit ##
 
 + [Andro](https://github.com/cyrilmengin/andro) - by Cyril Mengin.
 + [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
 
-### *Font used* ###
+## Font used ##
 
 [Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
 
@@ -51,7 +53,8 @@ Ciapre Blue.dvtcolortheme
 
 Well, you can do whatever you want with it. This is not big deal.
 
-***
+
+
 
 ~ Happy coding & I hope you like it! :)
 
