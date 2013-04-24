@@ -1,4 +1,4 @@
-# [Ciapre Xcode](http://vinhnx.github.com/Ciapre-Xcode-theme) #
+# [Ciapre Xcode](http://vinhnx.github.io/Ciapre-Xcode-theme) #
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
