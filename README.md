@@ -9,7 +9,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 **[NEW!]** **Automatically**
 
 > Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz).
-   After having successfully installed Alcatraz, just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
+   After having it successfully installed, just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
 
 **Manually**
 
