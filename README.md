@@ -8,8 +8,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 **[NEW!]** **Automatically**
 
-> Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz).
-   After having it successfully installed, just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
+> Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
 
 **Manually**
 
@@ -48,6 +47,8 @@ Version 2 (Dark)
 ## Font used ##
 
 [Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
+
+* * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
 ## License ##
 
