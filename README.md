@@ -48,7 +48,7 @@ Version 2 (Dark)
 
 [Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
 
-* * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
+   * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
 ## License ##
 
