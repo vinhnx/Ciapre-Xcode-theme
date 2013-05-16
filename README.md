@@ -41,7 +41,7 @@ Version 2 (Dark)
 
 ## Credit ##
 
-+ [Andro](https://github.com/cyrilmengin/andro) - by Cyril Mengin.
++ [Andro](https://github.com/cyrilmengin/andro)
 + [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
 
 ## Font used ##
