@@ -42,7 +42,7 @@ Version 2 (Dark)
 ## Credit ##
 
 + [Andro](https://github.com/cyrilmengin/andro)
-+ [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
++ [MOON color theme](https://kuler.adobe.com/#themeID/2320307)
 
 ## Font used ##
 
