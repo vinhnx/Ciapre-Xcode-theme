@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Inconsolata - 17.0</string>
+		<string>Inconsolata-g - 15.0</string>
 	</dict>
 </dict>
 </plist>
