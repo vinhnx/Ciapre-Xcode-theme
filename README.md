@@ -12,7 +12,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 **Manually**
 
-1. `git clone https://github.com/vinhnx/Ciapre-Xcode-theme.git`
+1. `git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git`
 
 2. `cd Ciapre-Xcode-theme`
 
@@ -29,15 +29,16 @@ cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/L
 
 ## Comes with two different colors ##
 
-Version 1 (Blue + Dark)
-
-![Ciapre Black](https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png "Ciapre.dvtcolortheme")
-
-![Ciapre](https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png "Ciapre Blue.dvtcolortheme")
-
 Version 2 (Dark)
 
-![Ciapre Black Neue](https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png "Ciapre 2.dvtcolortheme")
+![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png "Ciapre 2.dvtcolortheme")
+
+Version 1 (Blue + Dark)
+
+![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre.dvtcolortheme")
+
+![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png "Ciapre Blue.dvtcolortheme")
+
 
 ## Credit ##
 
