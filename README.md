@@ -45,17 +45,10 @@ Version 1 (Blue + Dark)
 + [Andro](https://github.com/cyrilmengin/andro)
 + [MOON color theme](https://kuler.adobe.com/#themeID/2320307)
 
-## Font used ##
+## Reccommended Font ##
 
 [Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
 
-   * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
+For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
-## License ##
-
-There's no license or whatever, all I ask is a virtual high-five :hand:
-
-***
-
-~ Happy coding & I hope you like it! :)
 
