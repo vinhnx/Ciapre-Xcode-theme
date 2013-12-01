@@ -8,7 +8,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 ## Installation ##
 
-**[NEW!]** **Automatically**
+** **Automatically**
 
 > Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
 
@@ -27,7 +27,7 @@ cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/L
 
 5. Restart Xcode, select your new Ciapre theme in Color settings.
 
-6. Profit! :octocat::shipit:.
+6. Happy Coding! :shipit:.
 
 ## Comes with two different colors ##
 
@@ -36,6 +36,7 @@ Version 2 (Dark)
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png "Ciapre 2.dvtcolortheme")
 
 Version 1 (Blue + Dark)
+
 
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre.dvtcolortheme")
 
@@ -49,8 +50,10 @@ Version 1 (Blue + Dark)
 
 ## Reccommended Font ##
 
-[Inconsolata](www.levien.com/type/myfonts/inconsolata.html)
+[Inconsolata-g](http://leonardo-m.livejournal.com/77079.html)
 
 For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
+## What's With The Name? ##
 
+Just random, really!
