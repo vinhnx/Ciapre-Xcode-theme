@@ -2,6 +2,8 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
+![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
+
 Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
 
 ## Installation ##
