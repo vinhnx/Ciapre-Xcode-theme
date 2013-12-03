@@ -8,9 +8,9 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 ## Installation ##
 
-** Alcatraz (reccommended) **
+**Alcatraz** (reccommended)
 
-> In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode.
+In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode.
 
 **Manually**
 
@@ -18,7 +18,7 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
-2++ Happy Coding! :shipit:.
+Happy Coding! :shipit:.
 
 ## Comes with two different colors ##
 
