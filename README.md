@@ -8,26 +8,17 @@ Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax high
 
 ## Installation ##
 
-** **Automatically**
+** Alcatraz (reccommended) **
 
-> Now intergrated with the all new Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode -> Profit :octocat:
+> In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode.
 
 **Manually**
 
-1. `git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git`
+1. `$ sh install-cipre-theme.sh`
 
-2. `cd Ciapre-Xcode-theme`
+2. Restart Xcode, select your new Ciapre theme in Color settings.
 
-3. 
-```
-cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
-
-    *Note*: you may have to make `FontAndColorThemes` folder in `~/Library/Developer/Xcode/UserData/` if you haven't changed your color themes, by `mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
-
-5. Restart Xcode, select your new Ciapre theme in Color settings.
-
-6. Happy Coding! :shipit:.
+2++ Happy Coding! :shipit:.
 
 ## Comes with two different colors ##
 
