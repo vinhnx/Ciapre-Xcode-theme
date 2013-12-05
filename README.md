@@ -4,7 +4,7 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
 
-Or visit: (OMGThemes!)[http://omgthemes.net/] :)
+Or visit: [OMGThemes!](http://omgthemes.net/) :)
 
 ## Installation ##
 
