@@ -4,7 +4,7 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
 
-Based on [Andro](https://github.com/cyrilmengin/andro) but with more syntax highlighting sweetness.
+Or visit: (OMGThemes!)[http://omgthemes.net/] :)
 
 ## Installation ##
 
@@ -34,9 +34,8 @@ Version 1 (Blue + Dark)
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png "Ciapre Blue.dvtcolortheme")
 
 
-## Credit ##
+## Color Pallete ##
 
-+ [Andro](https://github.com/cyrilmengin/andro)
 + [MOON color theme](https://kuler.adobe.com/#themeID/2320307)
 
 ## Reccommended Font ##
