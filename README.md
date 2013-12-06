@@ -47,3 +47,7 @@ For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-
 ## What's With The Name? ##
 
 Just random, really!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre-xcode-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
