@@ -6,7 +6,7 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 Or visit: [OMGThemes!](http://omgthemes.net/) :)
 
-## Installation ##
+# Installation #
 
 **Alcatraz** (reccommended)
 
@@ -20,19 +20,20 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 
 Happy Coding! :shipit:.
 
-## Comes with two different colors ##
+# Comes with two different colors #
 
-Version 2 (Dark)
+## Version 2 (Dark) ##
 
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png "Ciapre 2.dvtcolortheme")
 
-Version 1 (Blue + Dark)
+## Version 1 (Blue + Dark) ##
 
 
 ![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre.dvtcolortheme")
 
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png "Ciapre Blue.dvtcolortheme")
 
+# Side Notes #
 
 ## Color Pallete ##
 
@@ -44,7 +45,17 @@ Version 1 (Blue + Dark)
 
 For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
-## What's With The Name? ##
+# Ciapre on Other Platforms #
+
+1. [CotEditor themes by Naotaka Morimoto](http://www.naotaka.com/coteditorthemes/#Vinh-Nguyen)
+2. [Ciapre for emacs](https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el)
+3. [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
+4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
+5. [My own Sublime Text2 / Text Mate theme - the original](https://github.com/vinhnx/Ciapre.tmTheme)
+
+Thanks all for your works! :beer:
+
+# What's With The Name? #
 
 Just random, really!
 
