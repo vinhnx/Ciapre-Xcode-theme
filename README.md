@@ -29,7 +29,7 @@ Happy Coding! :shipit:.
 ## Version 1 (Blue + Dark) ##
 
 
-![Ciapre Black](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre.dvtcolortheme")
+![Ciapre Blue](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre Blue")
 
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png "Ciapre Blue.dvtcolortheme")
 
