@@ -96,11 +96,11 @@
 		<key>xcode.syntax.character</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGSDZ-Italic - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGSDZ-Italic - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGSDZ-Italic - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -114,9 +114,9 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGMDZ-Bold - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGMDZ-Bold - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
@@ -132,9 +132,9 @@
 		<key>xcode.syntax.plain</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGMDZ-Bold - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>MesloLGMDZ-Regular - 13.0</string>
+		<string>MesloLGSDZ-Italic - 13.0</string>
 		<key>xcode.syntax.url</key>
 		<string>MesloLGMDZ-Regular - 13.0</string>
 	</dict>
