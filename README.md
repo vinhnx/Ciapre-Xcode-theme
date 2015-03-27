@@ -18,7 +18,7 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
-Happy Coding! :shipit:.
+3. Happy Coding -> Profit (?!) :shipit::ship::rocket::octocat:
 
 # Comes with two different colors #
 
