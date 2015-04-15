@@ -4,101 +4,111 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Ciapre-xcode-theme by vinhnx</title>
+
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
+    <script src="javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/vinhnx/Ciapre-Xcode-theme">View On GitHub</a></li>
-          <li class="downloads"><a href="https://github.com/vinhnx/Ciapre-Xcode-theme/zipball/master">ZIP</a></li>
-          <li class="downloads"><a href="https://github.com/vinhnx/Ciapre-Xcode-theme/tarball/master">TAR</a></li>
-          <li class="title">DOWNLOADS</li>
-        </nav>
-      </div><!-- end header -->
-
     <div class="wrapper">
-
+      <header>
+        <h1>Ciapre-xcode-theme</h1>
+        <p>Someone&#39;s most favorite Xcode theme </p>
+        <p class="view"><a href="https://github.com/vinhnx/Ciapre-Xcode-theme">View the Project on GitHub <small>vinhnx/Ciapre-Xcode-theme</small></a></p>
+        <ul>
+          <li><a href="https://github.com/vinhnx/Ciapre-Xcode-theme/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/vinhnx/Ciapre-Xcode-theme/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/vinhnx/Ciapre-Xcode-theme">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
       <section>
-        <div id="title">
-          <h1>Ciapre-xcode-theme</h1>
-          <p>Someone&#39;s most favorite Xcode theme </p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/vinhnx">vinhnx</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
+        <h1>
+<a id="ciapre-xcode" class="anchor" href="#ciapre-xcode" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://vinhnx.github.io/Ciapre-Xcode-theme">Ciapre Xcode</a>
+</h1>
 
-        <p>An easy on the eyes Xcode theme, ported from <a href="https://github.com/vinhnx/Ciapre.tmTheme/">Ciapre Sublime Text</a>.</p>
+<p>An easy on the eyes Xcode theme, ported from <a href="https://github.com/vinhnx/Ciapre.tmTheme/">Ciapre Sublime Text</a>.</p>
 
-<p>Based on <a href="https://github.com/cyrilmengin/andro">Andro</a> but with more syntax highlighting sweetness.</p>
+<p><img src="https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png" alt="Ciapre Black Neue" title="Ciapre 2.dvtcolortheme"></p>
 
-<h2>
-<a name="installation" class="anchor" href="#installation"><span class="octicon octicon-link"></span></a>Installation</h2>
+<p>Or visit: <a href="http://omgthemes.net/">OMGThemes!</a> :)</p>
 
-<p><strong>[NEW!]</strong> <strong>Automatically</strong></p>
+<h1>
+<a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation</h1>
 
-<blockquote>
-<p>Now intergrated with the all new Xcode Package Manager <a href="https://github.com/mneorr/Alcatraz">Alcatraz</a>. Just search for <code>Ciapre</code> -&gt; check the checkmark button -&gt; restart Xcode -&gt; Profit <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.global.ssl.fastly.net/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"></p>
-</blockquote>
+<p><strong>Alcatraz</strong> (reccommended)</p>
+
+<p>In Xcode Package Manager <a href="https://github.com/mneorr/Alcatraz">Alcatraz</a>. Just search for <code>Ciapre</code> -&gt; check the checkmark button -&gt; restart Xcode.</p>
 
 <p><strong>Manually</strong></p>
 
 <ol>
-<li><p><code>git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git</code></p></li>
-<li><p><code>cd Ciapre-Xcode-theme</code></p></li>
-<li>
-<pre><code>cp Ciapre.dvtcolortheme 'Ciapre 2.dvtcolortheme' 'Ciapre Blue.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-</code></pre>
-
-<p><em>Note</em>: you may have to make <code>FontAndColorThemes</code> folder in <code>~/Library/Developer/Xcode/UserData/</code> if you haven't changed your color themes, by <code>mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes</code>.</p>
-</li>
+<li><p><code>$ ./install-ciapre-theme.sh</code></p></li>
 <li><p>Restart Xcode, select your new Ciapre theme in Color settings.</p></li>
-<li><p>Profit! <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.global.ssl.fastly.net/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":shipit:" alt=":shipit:" src="https://github.global.ssl.fastly.net/images/icons/emoji/shipit.png" height="20" width="20" align="absmiddle">.</p></li>
-</ol><h2>
-<a name="comes-with-two-different-colors" class="anchor" href="#comes-with-two-different-colors"><span class="octicon octicon-link"></span></a>Comes with two different colors</h2>
+<li><p>Happy Coding -&gt; Profit (?!) <img class="emoji" title=":shipit:" alt=":shipit:" src="https://assets-cdn.github.com/images/icons/emoji/shipit.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":ship:" alt=":ship:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a2.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":rocket:" alt=":rocket:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"></p></li>
+</ol>
 
-<p>Version 2 (Dark)</p>
+<h1>
+<a id="comes-with-two-different-colors" class="anchor" href="#comes-with-two-different-colors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Comes with two different colors</h1>
+
+<h2>
+<a id="version-2-dark" class="anchor" href="#version-2-dark" aria-hidden="true"><span class="octicon octicon-link"></span></a>Version 2 (Dark)</h2>
 
 <p><img src="https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png" alt="Ciapre Black Neue" title="Ciapre 2.dvtcolortheme"></p>
 
-<p>Version 1 (Blue + Dark)</p>
+<h2>
+<a id="version-1-blue--dark" class="anchor" href="#version-1-blue--dark" aria-hidden="true"><span class="octicon octicon-link"></span></a>Version 1 (Blue + Dark)</h2>
 
-<p><img src="https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png" alt="Ciapre Black" title="Ciapre.dvtcolortheme"></p>
+<p><img src="https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png" alt="Ciapre Blue" title="Ciapre Blue"></p>
 
 <p><img src="https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png" alt="Ciapre" title="Ciapre Blue.dvtcolortheme"></p>
 
+<h1>
+<a id="side-notes" class="anchor" href="#side-notes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Side Notes</h1>
+
 <h2>
-<a name="credit" class="anchor" href="#credit"><span class="octicon octicon-link"></span></a>Credit</h2>
+<a id="color-pallete" class="anchor" href="#color-pallete" aria-hidden="true"><span class="octicon octicon-link"></span></a>Color Pallete</h2>
 
 <ul>
-<li><a href="https://github.com/cyrilmengin/andro">Andro</a></li>
 <li><a href="https://kuler.adobe.com/#themeID/2320307">MOON color theme</a></li>
-</ul><h2>
-<a name="font-used" class="anchor" href="#font-used"><span class="octicon octicon-link"></span></a>Font used</h2>
+</ul>
 
-<p><a href="www.levien.com/type/myfonts/inconsolata.html">Inconsolata</a></p>
+<h2>
+<a id="reccommended-font" class="anchor" href="#reccommended-font" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reccommended Font</h2>
 
-<ul>
-<li>For more programming fonts, visit <a href="http://slant.co/topics/67/%7Ewhat-are-the-best-programming-fonts">http://slant.co/topics/67/~what-are-the-best-programming-fonts</a>.</li>
-</ul><h2>
-<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
+<p><a href="http://leonardo-m.livejournal.com/77079.html">Inconsolata-g</a></p>
 
-<p>There's no license or whatever, all I ask is a virtual high-five <img class="emoji" title=":hand:" alt=":hand:" src="https://github.global.ssl.fastly.net/images/icons/emoji/hand.png" height="20" width="20" align="absmiddle"></p>
+<p>For more programming fonts, visit <a href="http://slant.co/topics/67/%7Ewhat-are-the-best-programming-fonts">http://slant.co/topics/67/~what-are-the-best-programming-fonts</a>.</p>
 
-<hr><p>~ Happy coding &amp; I hope you like it! :)</p>
+<h1>
+<a id="ciapre-on-other-platforms" class="anchor" href="#ciapre-on-other-platforms" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ciapre on Other Platforms</h1>
+
+<ol>
+<li><a href="http://www.naotaka.com/coteditorthemes/#Vinh-Nguyen">CotEditor themes by Naotaka Morimoto</a></li>
+<li><a href="https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el">Ciapre for emacs</a></li>
+<li><a href="https://github.com/zdj/themes#ciapreitermcolors">Ciapre for Jetbrains (IDEA) and iTerm2</a></li>
+<li><a href="https://github.com/eliquious/Red-Planet-Theme">Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.</a></li>
+<li><a href="https://github.com/vinhnx/Ciapre.tmTheme">My own Sublime Text2 / Text Mate theme - the original</a></li>
+</ol>
+
+<p>Thanks all for your works! <img class="emoji" title=":beer:" alt=":beer:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png" height="20" width="20" align="absmiddle"></p>
+
+<h1>
+<a id="whats-with-the-name" class="anchor" href="#whats-with-the-name" aria-hidden="true"><span class="octicon octicon-link"></span></a>What's With The Name?</h1>
+
+<p>Just random, really!</p>
+
+<p><a href="https://bitdeli.com/free" title="Bitdeli Badge"><img src="https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre-xcode-theme/trend.png" alt="Bitdeli Badge"></a></p>
       </section>
-
     </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/vinhnx">vinhnx</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
