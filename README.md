@@ -57,6 +57,9 @@ Thanks all for your works! :beer:
 
 Just random, really!
 
+==
+
+If you like this theme, please help spreading to the world. Thanks! :rocket:
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre-xcode-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
