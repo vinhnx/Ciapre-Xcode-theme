@@ -2,9 +2,11 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
+Swift
 > code sample from [Alamofire](https://github.com/Alamofire/Alamofire)
 ![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire-swift.png "Ciapre 2.dvtcolortheme")
 
+Objective-C
 > code sample from [SVPulsingAnnotationView](https://github.com/TransitApp/SVPulsingAnnotationView)
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
 
@@ -65,6 +67,3 @@ Just random, really!
 ==
 
 If you like this theme, please help spreading to the world. Thanks! :rocket:
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre-xcode-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
