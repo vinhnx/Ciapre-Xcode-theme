@@ -2,7 +2,12 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
+> code sample from [Alamofire](https://github.com/Alamofire/Alamofire)
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire-swift.png "Ciapre 2.dvtcolortheme")
+
+> code sample from [SVPulsingAnnotationView](https://github.com/TransitApp/SVPulsingAnnotationView)
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
+
 
 # Installation #
 
