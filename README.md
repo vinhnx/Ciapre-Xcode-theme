@@ -46,7 +46,8 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 
 ## Reccommended Font ##
 
-[Inconsolata-g](http://leonardo-m.livejournal.com/77079.html)
++ [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html)
++ [Meslo](https://github.com/andreberg/Meslo-Font)
 
 For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
