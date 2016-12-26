@@ -34,12 +34,15 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 
 # Comes with two different colors #
 
+## Version 3 (Dark blur) ##
+
+![Ciapre 3](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre3.jpg "Ciapre 3.dvtcolortheme")
+
 ## Version 2 (Dark) ##
 
 ![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png "Ciapre 2.dvtcolortheme")
 
 ## Version 1 (Blue + Dark) ##
-
 
 ![Ciapre Blue](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre Blue")
 
