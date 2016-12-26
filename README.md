@@ -4,7 +4,14 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 Swift
 > code sample from [Alamofire](https://github.com/Alamofire/Alamofire)
-![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire-swift.png "Ciapre 2.dvtcolortheme")
+
+**Ciapre 3**
+
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire_ciapre3.png "Ciapre 3.dvtcolortheme")
+
+**Ciapre 2**
+
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire_ciapre2.png "Ciapre 2.dvtcolortheme")
 
 Objective-C
 > code sample from [SVPulsingAnnotationView](https://github.com/TransitApp/SVPulsingAnnotationView)
