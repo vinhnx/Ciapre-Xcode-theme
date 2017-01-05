@@ -2,21 +2,17 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
-Swift
-> code sample from [Alamofire](https://github.com/Alamofire/Alamofire)
-
 **Ciapre 3**
 
-![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire_ciapre3.png "Ciapre 3.dvtcolortheme")
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/3.jpg "Ciapre 3.dvtcolortheme")
 
 **Ciapre 2**
 
-![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/alamofire_ciapre2.png "Ciapre 2.dvtcolortheme")
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/2.jpg "Ciapre 2.dvtcolortheme")
 
-Objective-C
-> code sample from [SVPulsingAnnotationView](https://github.com/TransitApp/SVPulsingAnnotationView)
-![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-xcode.png "Ciapre 2.dvtcolortheme")
+**Ciapre 1**
 
+![Ciapre Swift](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/1.jpg "Ciapre 1.dvtcolortheme")
 
 # Installation #
 
@@ -31,24 +27,6 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
 3. Happy Coding -> Profit (?!) :shipit::ship::rocket::octocat:
-
-# Comes with two different colors #
-
-## Version 3 (Dark blur) ##
-
-![Ciapre 3](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre3.jpg "Ciapre 3.dvtcolortheme")
-
-## Version 2 (Dark) ##
-
-![Ciapre Black Neue](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png "Ciapre 2.dvtcolortheme")
-
-## Version 1 (Blue + Dark) ##
-
-![Ciapre Blue](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre-blue.png "Ciapre Blue")
-
-![Ciapre](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png "Ciapre Blue.dvtcolortheme")
-
-# Side Notes #
 
 ## Color Pallete ##
 
@@ -77,4 +55,4 @@ Just random, really!
 
 ==
 
-If you like this theme, please help spreading to the world. Thanks! :rocket:
+I'm @vinhnx on both Twitter and GitHub. If you like this theme, please help spreading to the world. Thanks! :rocket:
