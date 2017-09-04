@@ -55,4 +55,10 @@ Just random, really!
 
 ==
 
+## Patreon ##
+
+I also have a Patreon in case you want to support my work. Thank you in advance!
+
+https://www.patreon.com/vinhnx
+
 I'm @vinhnx on both Twitter and GitHub. If you like this theme, please help spreading to the world. Thanks! :rocket:
