@@ -12,7 +12,7 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 **Ciapre 1**
 
-![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/3.jpg "Ciapre 1.dvtcolortheme")
+![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/1.jpg "Ciapre 1.dvtcolortheme")
 
 # Installation #
 
