@@ -2,6 +2,17 @@
 
 An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
+## Demo Screenshot
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.jpg)
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_2.jpg)
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_3.jpg)
+
+
+## Scheme
+
 **Ciapre 3**
 
 ![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/3.jpg "Ciapre 3.dvtcolortheme")
