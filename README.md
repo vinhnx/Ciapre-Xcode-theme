@@ -4,11 +4,11 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 ## Demo Screenshot
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.jpg)
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.png)
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_2.jpg)
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_2.png)
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_3.jpg)
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_3.png)
 
 
 ## Scheme
