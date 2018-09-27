@@ -2,7 +2,7 @@
 
 An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
-## Demo Screenshot
+## Demo Screenshot (looks real good with MacOS Mojave dark mode)
 
 ![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.png)
 
