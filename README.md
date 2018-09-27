@@ -17,7 +17,13 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 
 **Manually**
 
-1. `$ ./install-ciapre-theme.sh`
+1. On Terminal:
+
+```bash
+$ git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git
+$ cd Ciapre-Xcode-theme
+$ sh install-ciapre-theme.sh
+```
 
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
