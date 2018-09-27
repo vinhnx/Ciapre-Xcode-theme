@@ -13,17 +13,11 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 ## Scheme
 
-**Ciapre 3**
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_1.png")
 
-![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/3.jpg "Ciapre 3.dvtcolortheme")
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_2.png")
 
-**Ciapre 2**
-
-![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/2.jpg "Ciapre 2.dvtcolortheme")
-
-**Ciapre 1**
-
-![Ciapre Swift](https://raw.githubusercontent.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/1.jpg "Ciapre 1.dvtcolortheme")
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_3.png")
 
 # Installation #
 
