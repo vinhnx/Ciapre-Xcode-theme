@@ -1,6 +1,6 @@
 # [Ciapre Xcode](http://vinhnx.github.io/Ciapre-Xcode-theme) #
 
-An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
+An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
 ## Demo Screenshot
 
