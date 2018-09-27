@@ -6,18 +6,8 @@ An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https:
 
 ![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.png)
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_2.png)
+> [click to view more screenshots](https://www.icloud.com/sharedalbum/#B0D532ODWGuCMZx) 
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_3.png)
-
-
-## Scheme
-
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_1.png)
-
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_2.png)
-
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_3.png)
 
 # Installation #
 
