@@ -13,11 +13,11 @@ An easy on the eyes Xcode theme, ported from [Ciapre Sublime Text](https://githu
 
 ## Scheme
 
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_1.png")
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_1.png)
 
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_2.png")
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_2.png)
 
-![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_3.png")
+![settings](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/settings_3.png)
 
 # Installation #
 
