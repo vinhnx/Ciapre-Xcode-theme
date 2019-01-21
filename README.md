@@ -49,7 +49,8 @@ For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-
 3. [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
 4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
 5. [My own Sublime Text2 / Text Mate theme - the original](https://github.com/vinhnx/Ciapre.tmTheme)
-
+6. [Ciapre theme for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=konart.ciapre) :rocket:
+	
 Thanks all for your works! :beer:
 
 # What's With The Name? #
