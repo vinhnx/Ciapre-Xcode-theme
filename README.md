@@ -2,6 +2,20 @@
 
 An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
+# Screenshots
+
+### Ciapre
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png)
+
+### Ciapre 2
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png)
+
+### Ciapre 3
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre3.png)
+
 # Installation
 
 **Alcatraz** (reccommended)
