@@ -19,7 +19,7 @@ git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git && cd Ciapre-Xcode-theme 
 -   what this does:
     1. Clone this repo on current location
     2. Navigate to the repo on disk
-    3. Invoke a [shell script](https://github.com/vinhnx/Ciapre-Xcode-theme/blob/master/install-ciapre-theme.sh) install, first, it locates for `Library/Developer/Xcode/UserData/FontAndColorThemes` to check whether the folder exists. If exists, it copy all `*.dvtcolortheme` files from the repo to the Xcode FontAndColorThemes directory; else, it create this directory, then copy.
+    3. Invoke a [shell script](https://github.com/vinhnx/Ciapre-Xcode-theme/blob/master/install-ciapre-theme.sh) install, first, it locates for `Library/Developer/Xcode/UserData/FontAndColorThemes` to check whether the folder exists. If exists, it copy all `*.xccolortheme` files from the repo to the Xcode FontAndColorThemes directory; else, it create this directory, then copy.
 
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
