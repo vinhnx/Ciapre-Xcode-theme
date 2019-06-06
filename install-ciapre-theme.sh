@@ -6,6 +6,6 @@ if [[ ! -d $destination ]]; then
     mkdir -p ${destination}
 fi
 
-find . -name "*.dvtcolortheme" -exec cp {} ${destination} \;
+find . -name "*.xccolortheme" -exec cp {} ${destination} \;
 
 echo "Copied to: ${destination}!"

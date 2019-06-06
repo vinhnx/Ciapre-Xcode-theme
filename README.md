@@ -1,15 +1,10 @@
-# [Ciapre Xcode](http://vinhnx.github.io/Ciapre-Xcode-theme) #
+# [Ciapre Xcode](http://vinhnx.github.io/Ciapre-Xcode-theme)
 
 An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
-## Demo Screenshot (looks real good with MacOS Mojave dark mode)
+> [click to view more screenshots](https://www.icloud.com/sharedalbum/#B0D532ODWGuCMZx)
 
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/demo_1.png)
-
-> [click to view more screenshots](https://www.icloud.com/sharedalbum/#B0D532ODWGuCMZx) 
-
-
-# Installation #
+# Installation
 
 **Alcatraz** (reccommended)
 
@@ -31,18 +26,18 @@ git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git && cd Ciapre-Xcode-theme 
 
 3. Happy Coding -> Profit (?!) :shipit::ship::rocket::octocat:
 
-## Color Pallete ##
+## Color Pallete
 
-+ [MOON color theme](https://kuler.adobe.com/#themeID/2320307)
+-   [MOON color theme](https://kuler.adobe.com/#themeID/2320307)
 
-## Reccommended Font ##
+## Reccommended Font
 
-+ [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html)
-+ [Meslo](https://github.com/andreberg/Meslo-Font)
+-   [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html)
+-   [Meslo](https://github.com/andreberg/Meslo-Font)
 
 For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
-# Ciapre on Other Platforms #
+# Ciapre on Other Platforms
 
 1. [CotEditor themes by Naotaka Morimoto](http://www.naotaka.com/coteditorthemes/#Vinh-Nguyen)
 2. [Ciapre for emacs](https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el)
@@ -53,13 +48,13 @@ For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-
 	
 Thanks all for your works! :beer:
 
-# What's With The Name? #
+# What's With The Name?
 
 Just random, really!
 
 ==
 
-## Patreon ##
+## Patreon
 
 I also have a Patreon in case you want to support my work. Thank you in advance!
 
