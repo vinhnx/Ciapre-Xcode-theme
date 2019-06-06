@@ -2,8 +2,6 @@
 
 An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
-> [click to view more screenshots](https://www.icloud.com/sharedalbum/#B0D532ODWGuCMZx)
-
 # Installation
 
 **Alcatraz** (reccommended)
@@ -17,7 +15,8 @@ In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just se
 ```bash
 git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git && cd Ciapre-Xcode-theme && sh install-ciapre-theme.sh
 ```
-  + what this does:
+
+-   what this does:
     1. Clone this repo on current location
     2. Navigate to the repo on disk
     3. Invoke a [shell script](https://github.com/vinhnx/Ciapre-Xcode-theme/blob/master/install-ciapre-theme.sh) install, first, it locates for `Library/Developer/Xcode/UserData/FontAndColorThemes` to check whether the folder exists. If exists, it copy all `*.dvtcolortheme` files from the repo to the Xcode FontAndColorThemes directory; else, it create this directory, then copy.
@@ -45,7 +44,7 @@ For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-
 4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
 5. [My own Sublime Text2 / Text Mate theme - the original](https://github.com/vinhnx/Ciapre.tmTheme)
 6. [Ciapre theme for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=konart.ciapre) :rocket:
-	
+
 Thanks all for your works! :beer:
 
 # What's With The Name?
