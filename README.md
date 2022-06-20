@@ -2,20 +2,6 @@
 
 An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https://github.com/vinhnx/Ciapre.tmTheme/).
 
-# Screenshots
-
-### Ciapre
-
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png)
-
-### Ciapre 2
-
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png)
-
-### Ciapre 3
-
-![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre3.png)
-
 # Installation
 
 **Manually**
@@ -34,6 +20,20 @@ git clone https://github.com/vinhnx/Ciapre-Xcode-theme && cd Ciapre-Xcode-theme 
 2. Restart Xcode, select your new Ciapre theme in Color settings.
 
 3. Happy Coding -> Profit (?!) :shipit::ship::rocket::octocat:
+
+# Screenshots
+
+### Ciapre
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre.png)
+
+### Ciapre 2
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre2.png)
+
+### Ciapre 3
+
+![demo](https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/screenshot/ciapre3.png)
 
 ## Color Pallete
 
