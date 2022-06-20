@@ -18,16 +18,12 @@ An easy on the eyes Xcode color scheme, ported from [Ciapre Sublime Text](https:
 
 # Installation
 
-**Alcatraz** (reccommended)
-
-In Xcode Package Manager [Alcatraz](https://github.com/mneorr/Alcatraz). Just search for `Ciapre` -> check the checkmark button -> restart Xcode.
-
 **Manually**
 
 1. On Terminal:
 
 ```bash
-git clone git@github.com:vinhnx/Ciapre-Xcode-theme.git && cd Ciapre-Xcode-theme && sh install-ciapre-theme.sh
+git clone https://github.com/vinhnx/Ciapre-Xcode-theme && cd Ciapre-Xcode-theme && sh install-ciapre-theme.sh
 ```
 
 -   what this does:
